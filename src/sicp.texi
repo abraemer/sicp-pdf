@@ -82,12 +82,6 @@
 @comment
 
 
-\frontmatter
-
-\includepdf[scale=0.92]{coverpage.pdf}
-
-\pagebreak
-
 \vspace*{\fill}
 \thispagestyle{empty}
 
