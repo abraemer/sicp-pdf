@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="344.06763"
    height="130.53149"
    id="svg6534"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Fig3.20b.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Fig3.20b.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs6536">
     <marker
@@ -166,21 +166,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="194.51663"
-     inkscape:cy="61.916058"
+     inkscape:cx="151.52288"
+     inkscape:cy="62.124381"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1004"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1">
+     inkscape:window-width="2490"
+     inkscape:window-height="1371"
+     inkscape:window-x="70"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid6542"
-       originx="-104.0533px"
-       originy="-844.73425px" />
+       originx="-104.0533"
+       originy="-844.73425"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata_3.20">
@@ -462,61 +467,59 @@
      transform="translate(-104.0533,-77.096432)">
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="171"
        y="125.36218"
-       id="text7335"
-       sodipodi:linespacing="125%"><tspan
+       id="text7335"><tspan
          sodipodi:role="line"
          id="tspan7337"
          x="171"
-         y="125.36218">front-ptr</tspan></text>
+         y="125.36218"
+         style="font-size:11px;line-height:1.25">front-ptr</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="110.00001"
        y="92.451454"
-       id="text4974"
-       sodipodi:linespacing="125%"><tspan
+       id="text4974"><tspan
          sodipodi:role="line"
          id="tspan4976"
          x="110.00001"
-         y="92.451454">q</tspan></text>
+         y="92.451454"
+         style="font-size:11px;line-height:1.25">q</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="159.26784"
        y="197.91565"
-       id="text3007-0-2-9-5"
-       sodipodi:linespacing="125%"><tspan
+       id="text3007-0-2-9-5"><tspan
          sodipodi:role="line"
          id="tspan3009-8-5-1-5"
          x="159.26784"
          y="197.91565"
-         style="font-weight:normal;-inkscape-font-specification:Source Code Pro">a</tspan></text>
+         style="font-weight:normal;font-size:11px;line-height:1.25;-inkscape-font-specification:'Inconsolata LGC'">a</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="234.26784"
        y="197.91565"
-       id="text3007-0-2-9"
-       sodipodi:linespacing="125%"><tspan
+       id="text3007-0-2-9"><tspan
          sodipodi:role="line"
          id="tspan3009-8-5-1"
          x="234.26784"
          y="197.91565"
-         style="font-weight:normal;-inkscape-font-specification:Source Code Pro">b</tspan></text>
+         style="font-weight:normal;font-size:11px;line-height:1.25;-inkscape-font-specification:'Inconsolata LGC'">b</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="396"
        y="125.36218"
-       id="text7335-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text7335-4"><tspan
          sodipodi:role="line"
          id="tspan7337-2"
          x="396"
-         y="125.36218">rear-ptr</tspan></text>
+         y="125.36218"
+         style="font-size:11px;line-height:1.25">rear-ptr</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.53149605;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
        id="rect3794-77-9-4-4-3"
@@ -565,27 +568,25 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="309.26782"
        y="197.91565"
-       id="text3007-0-2-9-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text3007-0-2-9-7"><tspan
          sodipodi:role="line"
          id="tspan3009-8-5-1-9"
          x="309.26782"
          y="197.91565"
-         style="font-weight:normal;-inkscape-font-specification:Source Code Pro">c</tspan></text>
+         style="font-weight:normal;font-size:11px;line-height:1.25;-inkscape-font-specification:'Inconsolata LGC'">c</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="384"
        y="198.18353"
-       id="text3007-0-7-1"
-       sodipodi:linespacing="125%"><tspan
+       id="text3007-0-7-1"><tspan
          sodipodi:role="line"
          id="tspan3009-8-52-2"
          x="384"
          y="198.18353"
-         style="font-weight:normal;-inkscape-font-specification:Source Code Pro">d</tspan></text>
+         style="font-weight:normal;font-size:11px;line-height:1.25;-inkscape-font-specification:'Inconsolata LGC'">d</tspan></text>
   </g>
 </svg>

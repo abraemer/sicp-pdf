@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="436.5502"
    height="135.53149"
    id="svg7429"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Fig3.31.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Fig3.31.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs7431">
     <marker
@@ -152,21 +152,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="215.18161"
-     inkscape:cy="58.942305"
+     inkscape:cx="172.23101"
+     inkscape:cy="59.093923"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1004"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1">
+     inkscape:window-width="2490"
+     inkscape:window-height="1371"
+     inkscape:window-x="70"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid7437"
-       originx="-79.557087px"
-       originy="-814.73425px" />
+       originx="-79.557087"
+       originy="-814.73425"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata_3.31">
@@ -333,77 +338,79 @@
      transform="translate(-79.557087,-102.09643)">
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="210"
        y="174.36218"
-       id="text8815"
-       sodipodi:linespacing="125%"><tspan
+       id="text8815"><tspan
          sodipodi:role="line"
          id="tspan8817"
          x="210"
-         y="174.36218">filter:</tspan><tspan
+         y="174.36218"
+         style="font-size:11px;line-height:1.25">filter:</tspan><tspan
          sodipodi:role="line"
          x="210"
          y="188.11218"
-         id="tspan8819">not</tspan><tspan
+         id="tspan8819"
+         style="font-size:11px;line-height:1.25">not</tspan><tspan
          sodipodi:role="line"
          x="210"
          y="201.86218"
-         id="tspan8821">divisible?</tspan></text>
+         id="tspan8821"
+         style="font-size:11px;line-height:1.25">divisible?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="320"
        y="174.36218"
-       id="text8841"
-       sodipodi:linespacing="125%"><tspan
+       id="text8841"><tspan
          sodipodi:role="line"
          id="tspan8843"
          x="320"
-         y="174.36218">sieve</tspan></text>
+         y="174.36218"
+         style="font-size:11px;line-height:1.25">sieve</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="110"
        y="121.36218"
-       id="text8841-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text8841-0"><tspan
          sodipodi:role="line"
          id="tspan8843-3"
          x="110"
-         y="121.36218">sieve</tspan></text>
+         y="121.36218"
+         style="font-size:11px;line-height:1.25">sieve</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="171.49492"
        y="147.8979"
-       id="text9060"
-       sodipodi:linespacing="125%"><tspan
+       id="text9060"><tspan
          sodipodi:role="line"
          id="tspan9062"
          x="171.49492"
-         y="147.8979">car</tspan></text>
+         y="147.8979"
+         style="font-size:11px;line-height:1.25">car</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="171.49492"
        y="172.8979"
-       id="text9064"
-       sodipodi:linespacing="125%"><tspan
+       id="text9064"><tspan
          sodipodi:role="line"
          id="tspan9066"
          x="171.49492"
-         y="172.8979">cdr</tspan></text>
+         y="172.8979"
+         style="font-size:11px;line-height:1.25">cdr</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="425"
        y="160.36218"
-       id="text9178"
-       sodipodi:linespacing="125%"><tspan
+       id="text9178"><tspan
          sodipodi:role="line"
          id="tspan9180"
          x="425"
-         y="160.36218">cons</tspan></text>
+         y="160.36218"
+         style="font-size:11px;line-height:1.25">cons</tspan></text>
   </g>
 </svg>

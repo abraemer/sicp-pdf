@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="355.71255"
    height="204.27902"
    id="svg7118"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="Fig3.6b.svg"
-   style="display:inline">
+   style="display:inline"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs7120">
     <marker
@@ -83,21 +83,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="198.82446"
-     inkscape:cy="113.31078"
+     inkscape:cx="156.06857"
+     inkscape:cy="113.13708"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1004"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1">
+     inkscape:window-width="2490"
+     inkscape:window-height="1371"
+     inkscape:window-x="70"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid7126"
-       originx="-65.416px"
-       originy="-765.98673px" />
+       originx="-65.416"
+       originy="-765.98673"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata_3.6">
@@ -228,74 +233,72 @@
      transform="translate(-65.416,-82.096435)">
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Libertinus Sans;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="80"
        y="202.36218"
-       id="text5497"
-       sodipodi:linespacing="130%"><tspan
+       id="text5497"><tspan
          sodipodi:role="line"
          id="tspan5499"
          x="80"
          y="202.36218"
-         style="line-height:129.99999523%">parameters:<tspan
-   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+         style="font-size:13px;line-height:130%">parameters:<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:130%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC'"
    id="tspan8113"> balance</tspan></tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="221.22917"
+         y="219.27083"
          id="tspan5501"
-         style="line-height:129.99999523%">body:<tspan
-   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+         style="font-size:13px;line-height:130%">body:<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:130%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC'"
    id="tspan5503"
    dy="0"> (lambda (amount)</tspan></tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="237.95345"
+         y="236.17946"
          id="tspan7827"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro">        (if (&gt;= balance amount)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:140%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC'">        (if (&gt;= balance amount)</tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="253.35345"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+         y="253.07947"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:140%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC'"
          id="tspan7831"
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1.6 -4 -1">            (begin (set! balance (-- balance amount))</tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="268.75345"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+         y="269.97946"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:140%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC'"
          id="tspan7833">                   balance)</tspan><tspan
          sodipodi:role="line"
          x="80"
-         y="284.15344"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+         y="286.87946"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:140%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC'"
          id="tspan7835">            &quot;insufficient funds&quot;))</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="65"
        y="105.78568"
-       id="text5477"
-       sodipodi:linespacing="130%"><tspan
+       id="text5477"><tspan
          sodipodi:role="line"
          id="tspan5479"
          x="65"
          y="105.78568"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans">global</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:130%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O'">global</tspan><tspan
          sodipodi:role="line"
          x="65"
          y="122.68568"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:129.99999523%;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:130%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O'"
          id="tspan5507">env</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Source Code Pro;-inkscape-font-specification:Source Code Pro"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Inconsolata LGC';-inkscape-font-specification:'Inconsolata LGC';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="145"
        y="113.62489"
-       id="text5473"
-       sodipodi:linespacing="125%"><tspan
+       id="text5473"><tspan
          sodipodi:role="line"
          id="tspan5475"
          x="145"
-         y="113.62489">make-withdraw:</tspan></text>
+         y="113.62489"
+         style="font-size:11px;line-height:1.25">make-withdraw:</tspan></text>
   </g>
 </svg>

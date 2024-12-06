@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="286.74625"
    height="110.53149"
    id="svg6217"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Fig3.26a.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Fig3.26a.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs6219" />
   <sodipodi:namedview
@@ -25,21 +25,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="174.7786"
-     inkscape:cy="52.807485"
+     inkscape:cx="144.64286"
+     inkscape:cy="52.857143"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1004"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1">
+     inkscape:window-width="2490"
+     inkscape:window-height="1371"
+     inkscape:window-x="70"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid6225"
-       originx="-142.676px"
-       originy="-634.73425px" />
+       originx="-142.676"
+       originy="-634.73425"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata_3.26">
@@ -184,117 +189,115 @@
      transform="translate(-142.676,-307.09643)">
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="209.64285"
        y="376.29074"
-       id="text6790"
-       sodipodi:linespacing="120%"><tspan
+       id="text6790"><tspan
          sodipodi:role="line"
          id="tspan6792"
          x="209.64285"
          y="376.29074"
-         style="line-height:120.00000477%">half-</tspan><tspan
+         style="font-size:13px;line-height:120%">half-</tspan><tspan
          sodipodi:role="line"
          x="209.64285"
          y="391.89075"
          id="tspan6794"
-         style="line-height:120.00000477%">adder</tspan><tspan
+         style="font-size:13px;line-height:120%">adder</tspan><tspan
          sodipodi:role="line"
          x="209.64285"
          y="407.49075"
          id="tspan6796"
-         style="line-height:120.00000477%" /></text>
+         style="font-size:13px;line-height:120%"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="279.64285"
        y="341.29074"
-       id="text6790-6"
-       sodipodi:linespacing="120%"><tspan
+       id="text6790-6"><tspan
          sodipodi:role="line"
          id="tspan6792-7"
          x="279.64285"
          y="341.29074"
-         style="line-height:120.00000477%">half-</tspan><tspan
+         style="font-size:13px;line-height:120%">half-</tspan><tspan
          sodipodi:role="line"
          x="279.64285"
          y="356.89075"
          id="tspan6794-0"
-         style="line-height:120.00000477%">adder</tspan><tspan
+         style="font-size:13px;line-height:120%">adder</tspan><tspan
          sodipodi:role="line"
          x="279.64285"
          y="372.49075"
          id="tspan6796-5"
-         style="line-height:120.00000477%" /></text>
+         style="font-size:13px;line-height:120%"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="155"
        y="331.36218"
-       id="text4942"
-       sodipodi:linespacing="125%"><tspan
+       id="text4942"><tspan
          sodipodi:role="line"
          id="tspan4944"
          x="155"
-         y="331.36218">A</tspan></text>
+         y="331.36218"
+         style="font-size:13px;line-height:1.25">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="155"
        y="366.36218"
-       id="text4942-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text4942-3"><tspan
          sodipodi:role="line"
          id="tspan4944-7"
          x="155"
-         y="366.36218">B</tspan></text>
+         y="366.36218"
+         style="font-size:13px;line-height:1.25">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="158"
        y="401.36218"
-       id="text4942-32"
-       sodipodi:linespacing="125%"><tspan
+       id="text4942-32"><tspan
          sodipodi:role="line"
          id="tspan4944-3"
          x="158"
-         y="401.36218">C<tspan
+         y="401.36218"
+         style="font-size:13px;line-height:1.25">C<tspan
    style="font-size:9px;baseline-shift:sub"
    id="tspan7173">in</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="403.7576"
        y="331.36218"
-       id="text4942-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text4942-2"><tspan
          sodipodi:role="line"
          id="tspan4944-4"
          x="403.7576"
-         y="331.36218">SUM</tspan></text>
+         y="331.36218"
+         style="font-size:13px;line-height:1.25">SUM</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="405"
        y="373.36218"
-       id="text4942-32-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text4942-32-6"><tspan
          sodipodi:role="line"
          id="tspan4944-3-3"
          x="405"
-         y="373.36218">C<tspan
+         y="373.36218"
+         style="font-size:13px;line-height:1.25">C<tspan
    style="font-size:9px;baseline-shift:sub"
    id="tspan7220">out</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Libertinus Sans;-inkscape-font-specification:Libertinus Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="350"
        y="372.91571"
-       id="text7222"
-       sodipodi:linespacing="125%"><tspan
+       id="text7222"><tspan
          sodipodi:role="line"
          id="tspan7224"
          x="350"
-         y="372.91571">or</tspan></text>
+         y="372.91571"
+         style="font-size:13px;line-height:1.25">or</tspan></text>
   </g>
 </svg>
